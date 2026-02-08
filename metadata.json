@@ -1,0 +1,8 @@
+{
+  "name": "Sahil Puri Portfolio & AI Agent",
+  "description": "A high-performance personal portfolio featuring a built-in AI assistant to chat with recruiters about Sahil's experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
